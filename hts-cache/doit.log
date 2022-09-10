@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "" -%l "en, *" http://htmlbeans.com/html/eagleeyes/?storefront=envato-elements -O1 "C:\Users\User\Documents\tamplate" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://htmlbeans.com/html/eagleeyes/?storefront=envato-elements
+File generated automatically on Sat, 10 Sep 2022 10:50:55, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

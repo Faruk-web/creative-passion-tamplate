@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Sep 2022 10:50:55 at http://htmlbeans.com/html/eagleeyes/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://htmlbeans.com/html/eagleeyes/?storefront=envato-elements
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://htmlbeans.com/html/eagleeyes/?storefront=envato-elements -O1 "C:\Users\User\Documents\tamplate" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://htmlbeans.com/html/eagleeyes/?storefront=envato-elements )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:56	Warning: 	Note: due to htmlbeans.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:54:25	Warning: 	File not parsed, looks like binary: htmlbeans.com/html/eagleeyes/fonts/bootstrap/glyphicons-halflings-regular.woff2
+10:54:25	Warning: 	File not parsed, looks like binary: htmlbeans.com/html/eagleeyes/fonts/fontawesome-webfont.woff2?v=4.6.1
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/fontello.svgfontello (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/icomoon.svgicomoon (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/OCRAStd.svgOCRAStd (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-extralight-webfont.svgmuli-extralight-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-extralightitalic-webfont.svgmuli-extralightitalic-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-light-webfont.svgmuli-light-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-lightitalic-webfont.svgmuli-lightitalic-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-webfont.svgmuli-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-italic-webfont.svgmuli-italic-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-semibold-webfont.svgmuli-semibold-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-semi-bolditalic-webfont.svgmuli-semi-bolditalic-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-bold-webfont.svgmuli-bold-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/eagleeyes/fonts/muli-bolditalic-webfont.svgmuli-bolditalic-webfont (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/images/fancybox/fancybox_sprite.png (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/images/fancybox/fancybox_loading.gif (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/images/fancybox/blank.gif (from htmlbeans.com/html/eagleeyes/style.css)
+10:54:25	Error: 	"Not Found" (404) at link htmlbeans.com/html/images/fancybox/fancybox_overlay.png (from htmlbeans.com/html/eagleeyes/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 31 seconds : 210 links scanned, 192 files written (6362217 bytes overall) [5585420 bytes received at 26471 bytes/sec], 1394991 bytes transferred using HTTP compression in 38 files, ratio 20%, 3.1 requests per connection
+(17 errors, 3 warnings, 0 messages)
